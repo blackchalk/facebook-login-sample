@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoVets-kotlin</string>
+    <string name="facebook_app_id">2147605022199578</string>
+    <string name="fb_login_protocol_scheme">fb2147605022199578</string>
+
+</resources>

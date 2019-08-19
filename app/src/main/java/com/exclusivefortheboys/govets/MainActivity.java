@@ -104,6 +104,9 @@ public class MainActivity extends AppCompatActivity {
                     Log.e(TAG, "onCompleted: name:"+name );
                     Log.e(TAG, "onCompleted: email:"+email );
                     Log.e(TAG, "onCompleted: imageurl:"+image );
+                    Log.e(TAG, "onCompleted: imageurl:"+accessToken.getToken() );
+                    Log.e(TAG, "onCompleted: imageurl:"+accessToken.getUserId() );
+
 
                 } catch (JSONException e) {
                     e.printStackTrace();
